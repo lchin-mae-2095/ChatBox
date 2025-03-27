@@ -58,7 +58,7 @@ public class CHAT_CLIENT extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(204, 255, 255));
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 0, 153));
-        jLabel1.setText("Cliend");
+        jLabel1.setText("Client");
 
         jFile.setText("📂");
         jFile.addActionListener(new java.awt.event.ActionListener() {
